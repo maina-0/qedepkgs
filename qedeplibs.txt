@@ -13,16 +13,11 @@ sudo apt install libfftw3-dev -y
 sudo apt install libblas3 -y
 sudo apt install libblas-dev -y
 sudo apt install python3 -y
-
 sudo apt install python3-pip -y
-
 sudo apt install libxc9 -y
-
 sudo apt install mpich -y 
-
-pip install numpy
-
-pip install matplotlib
-
-pip install pandas
 Sudo apt install git -y
+pip install numpy
+pip install matplotlib
+pip install pandas
+
